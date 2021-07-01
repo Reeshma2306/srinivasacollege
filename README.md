@@ -2,4 +2,4 @@
 ## Btech BE Degree
 ## BCAS Hostel
 ### srinivasa nagar
-This is_just_ to ***demonstrate***
+This is __just__ to ***demonstrate*** the other tags of *HTML* in **MARKDOWN** *language*
